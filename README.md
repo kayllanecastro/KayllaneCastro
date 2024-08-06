@@ -2,7 +2,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:computer: I'm a graduate student in systems analysis and development!
+:computer: I'm a graduate student in Data Science!
 
 :woman_office_worker: I've a bachelor's degree in administration!
 
