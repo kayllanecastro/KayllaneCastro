@@ -1,10 +1,6 @@
 ## Welcome, I'm Kayllane! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">
 
-:house_with_garden: I’m from Brazil.
-
-:computer: I'm a graduate student in Data Science!
-
-:woman_office_worker: I've a bachelor's degree in administration!
+:house_with_garden: Originally from Brazil with a Business Administration background, I'm now fully immersed in the tech world. My current focus is on Data Science, and my ultimate goal is to become a skilled Data Analyst. Explore my work!:computer: :woman_office_worker:
 
 ## About me
 
